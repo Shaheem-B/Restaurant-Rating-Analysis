@@ -1,0 +1,37 @@
+📌 Objective :
+    This project aims to analyze a restaurant dataset to extract meaningful insights using data 
+preprocessing, exploratory data analysis (EDA), geospatial visualization, and machine learning models.
+The primary objectives include:
+✅ Cleaning and preprocessing the dataset for analysis. 
+✅ Exploring statistical patterns in restaurant data. 
+✅ Understanding customer behavior through rating analysis. 
+✅ Predicting restaurant ratings using machine learning models. 
+✅ Identifying geospatial trends and business insights.
+
+📌 Dataset Overview :
+1) The dataset contains information about restaurants, including:
+2) Restaurant Name
+3) Location Details (City, Country, Latitude, Longitude)
+4) Cuisines Offered
+5) Price Range
+6) Ratings & Reviews
+7) Online Delivery & Table Booking Availability
+
+📌 Project Milestones :
+✅ Data Cleaning & Preprocessing – Handled missing values, transformed data types, and performed feature engineering.
+✅ Descriptive Analysis – Analyzed cuisines, restaurant locations, and price categories.
+✅ Geospatial Visualization – Mapped restaurant density and rating distributions across regions.
+✅ Predictive Modeling – Built ML models (Linear Regression, Decision Trees, Random Forest) to predict restaurant ratings.
+✅ Customer Behavior Insights – Examined how table booking, online delivery, and pricing impact ratings.
+
+📌 Technologies Used :
+🔹 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+🔹 Geospatial Tools: Folium & Geopandas
+🔹 Machine Learning Models: Linear Regression, Decision Trees, Random Forest
+🔹 Jupyter Notebook for interactive analysis
+
+📌 Major Insights :
+✅ Restaurants offering online delivery & table booking tend to have higher ratings.
+✅ Mid-range price restaurants receive better ratings than extremely low or high-end ones.
+✅ Certain cuisines (e.g., Italian, Japanese) are consistently rated higher.
+✅ Restaurant locations significantly impact customer preferences and rating trends.
